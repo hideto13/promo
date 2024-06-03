@@ -209,4 +209,11 @@ onUnmounted(() => window.removeEventListener('scroll', handleScroll));
   max-width: 30vw;
   margin-top: 3vh;
 }
+
+@media (max-width: 800px) {
+  .frame-media {
+    width: calc(var(--index) * var(--side-small) * 1.5);
+    height: calc(var(--index) * var(--side-big) * 1.5);
+  }
+}
 </style>
