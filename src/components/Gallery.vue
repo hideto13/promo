@@ -41,7 +41,7 @@ onUnmounted(() => window.removeEventListener('scroll', handleScroll));
       <div class="frame__content">
         <div
           class="frame-media frame-media_left"
-          :style="{ backgroundImage: 'url(/src/assets/images/flower1.jpg)' }"
+          :style="{ backgroundImage: 'url(/assets/images/flower1.jpg)' }"
         ></div>
       </div>
     </div>
@@ -50,7 +50,7 @@ onUnmounted(() => window.removeEventListener('scroll', handleScroll));
       <div class="frame__content">
         <div
           class="frame-media frame-media_right"
-          :style="{ backgroundImage: 'url(/src/assets/images/flower2.jpg)' }"
+          :style="{ backgroundImage: 'url(/assets/images/flower2.jpg)' }"
         ></div>
       </div>
     </div>
@@ -72,7 +72,7 @@ onUnmounted(() => window.removeEventListener('scroll', handleScroll));
       <div class="frame__content">
         <div
           class="frame-media frame-media_left"
-          :style="{ backgroundImage: 'url(/src/assets/images/flower3.jpg)' }"
+          :style="{ backgroundImage: 'url(/assets/images/flower3.jpg)' }"
         ></div>
       </div>
     </div>
@@ -83,7 +83,7 @@ onUnmounted(() => window.removeEventListener('scroll', handleScroll));
       <div class="frame__content">
         <div
           class="frame-media frame-media_right"
-          :style="{ backgroundImage: 'url(/src/assets/images/flower4.jpg)' }"
+          :style="{ backgroundImage: 'url(/assets/images/flower4.jpg)' }"
         ></div>
       </div>
     </div>
@@ -105,7 +105,7 @@ onUnmounted(() => window.removeEventListener('scroll', handleScroll));
       <div class="frame__content">
         <div
           class="frame-media frame-media_right"
-          :style="{ backgroundImage: 'url(/src/assets/images/flower5.jpg)' }"
+          :style="{ backgroundImage: 'url(/assets/images/flower5.jpg)' }"
         ></div>
       </div>
     </div>
@@ -114,7 +114,7 @@ onUnmounted(() => window.removeEventListener('scroll', handleScroll));
       <div class="frame__content">
         <div
           class="frame-media frame-media_left"
-          :style="{ backgroundImage: 'url(/src/assets/images/flower6.jpg)' }"
+          :style="{ backgroundImage: 'url(/assets/images/flower6.jpg)' }"
         ></div>
       </div>
     </div>
@@ -126,7 +126,7 @@ onUnmounted(() => window.removeEventListener('scroll', handleScroll));
       <div class="frame__content">
         <div
           class="frame-media frame-media_right"
-          :style="{ backgroundImage: 'url(/src/assets/images/flower7.jpg)' }"
+          :style="{ backgroundImage: 'url(/assets/images/flower7.jpg)' }"
         ></div>
       </div>
     </div>
@@ -136,7 +136,7 @@ onUnmounted(() => window.removeEventListener('scroll', handleScroll));
         <div class="frame__content">
           <div
             class="frame-media"
-            :style="{ backgroundImage: 'url(/src/assets/images/flower8.jpg)' }"
+            :style="{ backgroundImage: 'url(/assets/images/flower8.jpg)' }"
           ></div>
         </div>
       </div>
